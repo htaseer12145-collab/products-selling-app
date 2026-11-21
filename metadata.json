@@ -1,0 +1,6 @@
+{
+  "name": "Haider Picks",
+  "description": "Curated Pakistani shopping deals, verified affiliate storefront across Daraz, Amazon, AliExpress, PriceOye, and buying guides by Syed Taseer Haider.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
